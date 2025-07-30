@@ -1,2 +1,2 @@
-# test_repo_calculator
-just a test 
+## Lernfortschritt
+- Erste Schritte mit GitHub gemacht!
